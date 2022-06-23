@@ -1,2 +1,2 @@
 #!/bin/bash
-chmos 755 hello
+chmos 644 hello
