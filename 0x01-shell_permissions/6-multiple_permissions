@@ -1,2 +1,2 @@
 #!/bin/bash
-chmos 644 hello
+chmos g+x o+r hello
