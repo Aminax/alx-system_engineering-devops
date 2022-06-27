@@ -3,5 +3,9 @@
 1. Write a script that displays a confused smiley "(Ôo)'.
 2. displaying content > Display the content of the /etc/passwd file.
 3. two files > Display the content of /etc/passwd and /etc/hosts
+4. last lines > Display the last 10 lines of /etc/passwd
+4. last lines > Display the last 10 lines of /etc/passwd
+4. last lines > Display the last 10 lines of /etc/passwd
+4. last lines > Display the last 10 lines of /etc/passwd
 
 
